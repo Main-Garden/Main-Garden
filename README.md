@@ -1,7 +1,6 @@
 ### Olá, Eu sou Main Garden!😊
 
 ![Main Garden GitHub stats](https://github-readme-stats.vercel.app/api?username=main-garden&show_icons=true&theme=merko)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=main-garden)](https://github.com/main-garden/github-readme-stats)
 
 ## Auto Estudo de Programção 
